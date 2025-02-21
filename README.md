@@ -71,9 +71,9 @@ Redux Toolkit 🛠️ - State management solution
 
 Vite 🚀 - Next-generation frontend tooling
 
-JavaScript (ES6+) ✨ - Modern JavaScript features
+JavaScript (ES6+)  - Modern JavaScript features
 
-Tailwind CSS 🎨 - Utility-first CSS framework (if included)
+Tailwind CSS  - Utility-first CSS framework (if included)
 
 🧪 Testing
 
@@ -97,11 +97,11 @@ Push to the branch (git push origin feature-branch)
 
 Create a Pull Request
 
-📜 License
+# License
 
 This project is licensed under the MIT License.
 
-📬 Contact
+# Contact
 
 For questions or collaboration inquiries, reach out via:
 
